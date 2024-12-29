@@ -1,14 +1,14 @@
 
 <div align="center">
-  <h1 align="center">JourneyJolt</h1 >
+  <h1 align="center">GoBeyond-AI</h1 >
   <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank">
     <img src="https://i.ibb.co/YLK0qVx/image.png" style="border-radius: 10px;" alt="Logo" width="" height="250">
   </a>
 
-  <h3>AI-Based Trip Planner</h3>
+  <h3>GeminiAI-Based Trip Planner</h3>
 
   <p align="center">
-    Discover personalized itineraries and curated hotel recommendations tailored to your interests. Simplify travel planning with smart suggestions for top destinations and activities, making every trip easy and enjoyable.
+    Explore custom itineraries and handpicked hotel recommendations designed to suit your preferences. Streamline your travel planning with intelligent suggestions for top destinations and activities, ensuring a seamless and memorable experience for every journey.
     <br />
     <br/>
      <div><a href="https://app.eraser.io/workspace/IT31dyj1DiiagZtyJ47a?origin=share" target="_blank"><img src="https://img.shields.io/badge/Eraser-EC2C40.svg?style=for-the-badge&logo=Eraser&logoColor=white" alt="Documentation and Flow"> </img></a></div>
@@ -16,7 +16,7 @@
      <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
     <br />
     <br />
-    <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a>
+   <!-- <a href="https://trip-planner-by-satendra.vercel.app/" target="_blank"><strong>Visit Now</strong></a> -->
     <br />
     <br />
 <!--     <a href="https://i.ibb.co/QkSk539/Whats-App-Image-2024-11-14-at-01-51-59-0db751b0.jpg">Support Me (with Money LOL)</a> -->
@@ -42,13 +42,13 @@
 </div>
 </br>
 
-**JourneyJolt** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
+**GoBeyond-AI** is an AI-based travel planning application designed to make trip planning _easier and more efficient_. This project leverages artificial intelligence to analyze user preferences and provide personalized recommendations for destinations, accommodations, and activities.
 
-Key features of JourneyJolt include:
+Key features of GoBeyond-AI include:
 * **Personalized Recommendations**: The AI suggests ideal destinations, hotels, and activities tailored to the traveler’s preferences.
 * **Automated Itinerary Generation**: The app automatically creates a full itinerary that considers factors like travel time and user preferences.
 
-JourneyJolt aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
+GoBeyond-AI aims to enhance the travel experience by providing a streamlined, easy-to-use platform for trip planning, designed for both casual travelers and frequent explorers alike.
 
 
 
@@ -71,9 +71,9 @@ This project is built with the following major frameworks, libraries, and servic
 
 ## Getting Started
 
-Setting up JourneyJolt is simple — just configure your ```.env``` file, and you're ready to go!
+Setting up GoBeyond-AI is simple — just configure your ```.env``` file, and you're ready to go!
 
-To get started with JourneyJolt, follow these instructions to set up the project locally on your machine for development and testing.
+To get started with GoBeyond-AI, follow these instructions to set up the project locally on your machine for development and testing.
 
 ### Prerequisites
 
@@ -83,7 +83,7 @@ Before you begin, ensure you have the following installed:
 
 ### Services & API Keys Setup
 
-To fully integrate JourneyJolt with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
+To fully integrate GoBeyond-AI with third-party services, you'll need to sign up for the following services, configure the required settings, and obtain API keys. Below are the steps for each service:
 
  
 <details>
@@ -194,7 +194,7 @@ The installation process is straightforward. You can either clone the repository
 1. **Clone the repository or download the ZIP file**  
    - To clone the repo, run the following command:
      ```sh
-     https://github.com/satendra03/trip-planner-by-satendra.git
+   https://github.com/SiddharthGautam07
      ```
    - Alternatively, you can download the ZIP file from the repository page and extract it.
 
@@ -272,7 +272,6 @@ The roadmap represents the challenges and updates that I plan to implement in th
 </div>
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are <b>greatly appreciated</b>. <br />
 
-<p>Or Maybe you can just  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a></p>
 
 If you have an idea or feature that would make this project even better, please feel free to contribute. Whether it's fixing bugs, adding new features, improving documentation, or anything else, your help is welcome!
 
@@ -284,8 +283,7 @@ If you have an idea or feature that would make this project even better, please 
 2. **Clone the repo**  
    Clone your forked version of the repo to your local machine.  
    ```sh
-   git clone https://github.com/satendra03/trip-planner-by-satendra.git
-   ```
+   git clone https://github.com/SiddharthGautam07
 
 3. **Create your feature branch**  
    Create a new branch for the feature you're working on.
@@ -314,7 +312,7 @@ If you have an idea or feature that would make this project even better, please 
   
 
 ## Report Issues and Suggestions
-If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/satendra03/trip-planner-by-satendra/issues) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
+If you encounter a bug or have a suggestion to improve the project, please open an [issue](https://github.com/SiddharthGautam07) on the Issues page. If it's a new feature or improvement, tag it as an "enhancement".
 
 
 </br>
@@ -337,14 +335,14 @@ We’d love to hear from you! Whether you have a question, suggestion, or issue 
 ### Ways to Contact Us:
 
 1. **GitHub Issues**: You can open an issue directly on this repository for bugs, feature requests, or general inquiries.
-   - [Open an Issue](https://github.com/satendra03/trip-planner-by-satendra/issues)
+   - [Open an Issue](https://github.com/SiddharthGautam07)
 
 2. **Email**: Reach out to us via email at:
-   - **satendrakumarparteti.work@gmail.com** 
+   - **sidmangautam@gmail.com** 
 
-3. **Social Media**:
+<!-- 3. **Social Media**:
    - **Instagram**: [@_satendra_03](https://www.instagram.com/_satendra_03/)
    - **LinkedIn**: [Satendra Kumar Parteti](https://www.linkedin.com/in/connect-satendra/)
 4. **Buy Me A Coffee**:
    - **Small Contibution**:  <a href="https://buymeacoffee.com/satendra03" target="_blank"><img src="https://img.shields.io/badge/Buy%20Me%20A%20Coffee-FFDD00.svg?style=for-the-badge&logo=Buy-Me-A-Coffee&logoColor=black"></a>
----
+--- -->

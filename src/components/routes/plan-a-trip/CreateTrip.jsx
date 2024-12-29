@@ -131,20 +131,22 @@ function CreateTrip() {
     <div className="mt-10">
       <div className="text text-center md:text-left">
         <h2 className="text-2xl md:text-4xl font-bold">
-          Share Your Travel Preferences 🌟🚀
+        Share Your Travel Preferences 🌍✨
         </h2>
-        <p className="text-sm text-gray-600 font-medium mt-3">
-          Help us craft your perfect adventure with just a few details.
-          JourneyJolt will generate a tailored itinerary based on your
-          preferences.
-        </p>
+        <p className="text-sm font-medium mt-3 bg-gradient-to-r from-red-500 to-blue-500 text-transparent bg-clip-text underline">
+  Help us craft your perfect adventure with just a few details.
+  JourneyJolt will generate a tailored itinerary based on your
+  preferences.
+</p>
+
       </div>
 
       <div className="form mt-10 flex flex-col gap-10 md:gap-20 ">
         <div className="place">
-          <h2 className="font-semibold text-md md:text-lg mb-3 text-center md:text-left">
-            Where do you want to Explore? 🏖️
-          </h2>
+        <h2 className=" font-bold text-md md:text-lg mb-3 text-center md:text-left">
+  Where do you want to Explore? 🏖️
+</h2>
+
           <GooglePlacesAutocomplete
             apiKey={import.meta.env.VITE_GOOGLE_MAP_API_KEY}
             selectProps={{
@@ -158,7 +160,7 @@ function CreateTrip() {
         </div>
 
         <div className="day">
-          <h2 className="font-semibold text-md md:text-lg mb-3 text-center md:text-left">
+          <h2 className="font-bold  text-md md:text-lg mb-3 text-center md:text-left">
             How long is your Trip? 🕜
           </h2>
           <Input
@@ -173,7 +175,7 @@ function CreateTrip() {
         </div>
 
         <div className="budget">
-          <h2 className="font-semibold text-md md:text-lg mb-3 text-center md:text-left">
+          <h2 className="font-bold  text-md md:text-lg mb-3 text-center md:text-left">
             What is your Budget? 💳
           </h2>
           <div className="options grid grid-cols-1 gap-5 md:grid-cols-3 cursor-pointer">
@@ -197,7 +199,7 @@ function CreateTrip() {
         </div>
 
         <div className="people">
-          <h2 className="font-semibold text-md md:text-lg mb-3 text-center md:text-left">
+          <h2 className="font-bold  text-md md:text-lg mb-3 text-center md:text-left">
             Who are you traveling with? 🚗
           </h2>
           <div className="options grid grid-cols-1 gap-5 md:grid-cols-3 cursor-pointer">
@@ -272,6 +274,11 @@ function CreateTrip() {
           </DialogFooter>
         </DialogContent>
       </Dialog>
+
+      <div className="img">
+        <img src="/journey1.png" className="" alt="" />
+      </div>
+
     </div>
   );
 }
